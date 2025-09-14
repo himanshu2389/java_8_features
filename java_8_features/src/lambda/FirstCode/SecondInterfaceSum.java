@@ -1,4 +1,4 @@
-package lambda;
+package lambda.FirstCode;
 // Functional interface to perform sum operation
 
 /**

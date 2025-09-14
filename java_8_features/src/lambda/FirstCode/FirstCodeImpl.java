@@ -1,4 +1,5 @@
-package lambda;
+package lambda.FirstCode;
+
 /**
  * Concrete class implementing FirstCodeInterface.
  * Provides an implementation for the sayHello() method.

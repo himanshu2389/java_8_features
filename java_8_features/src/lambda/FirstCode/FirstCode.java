@@ -1,4 +1,4 @@
-package lambda;
+package lambda.FirstCode;
 
 /**
  * Main2 class to demonstrate different ways of implementing interfaces in Java 8.
@@ -12,12 +12,12 @@ public class FirstCode {
         System.out.println("First code for lambda expressions");
 
 
-        // Using a separate class that implements the interface
+        // Using a separate class that impements the interface
         FirstCodeInterface fCI = new FirstCodeImpl();
         fCI.sayHello();
 
         System.out.println();
-        System.out.println("***-------------------------------------------------------------***");
+        System.out.println("**l*-------------------------------------------------------------***");
 
         // Implementing the interface using an anonymous class
         FirstCodeInterface fCIAnonymous = new FirstCodeInterface() {
