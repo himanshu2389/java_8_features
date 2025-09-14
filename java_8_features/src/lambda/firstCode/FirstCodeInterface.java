@@ -1,4 +1,4 @@
-package lambda.FirstCode;
+package lambda.firstCode;
 
 /**
  * Functional interface with a single abstract method to print a message.

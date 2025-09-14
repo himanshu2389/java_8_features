@@ -1,4 +1,4 @@
-package lambda.FirstCode;
+package lambda.firstCode;
 
 /**
  * Main2 class to demonstrate different ways of implementing interfaces in Java 8.

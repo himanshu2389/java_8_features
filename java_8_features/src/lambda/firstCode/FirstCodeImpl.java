@@ -1,4 +1,4 @@
-package lambda.FirstCode;
+package lambda.firstCode;
 
 /**
  * Concrete class implementing FirstCodeInterface.
