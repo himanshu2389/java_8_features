@@ -1,4 +1,4 @@
-package lambda.FirstCode;
+package lambda.firstCode;
 // Functional interface to calculate the length of a string
 
 /**
