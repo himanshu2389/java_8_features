@@ -11,6 +11,9 @@ public class BuiltInFunctionalInterfaces {
         System.out.println(isEven.test(10)); // true
         System.out.println(isEven.test(11)); // false
 
+        Predicate<Integer> isOdd = n -> n % 2 != 0;
+
+        System.out.println("Check "+isOdd.test(11));
         // Function: Converts String to Integer (length)
         Function<String, Integer> lengthFunction = str -> str.length();
         System.out.println(lengthFunction.apply("Lambda")); // 6
